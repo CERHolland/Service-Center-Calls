@@ -37,3 +37,5 @@ grouped = project.groupby('year_month').size()
 over all the support calls are unique, meaning that one call can provide the support needed. 
 those that do call in, call in multiple times. 
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/6843524e-c402-4fef-9558-4625d87a9aa7" />
+
+The amount of support needed for sign-ups needs to be addressed to be more efficient with phone calls. Emails do a good job in sign-ups, Can we offer more support initially to minimize the support needed by phone? 
