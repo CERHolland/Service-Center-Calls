@@ -34,3 +34,6 @@ project.value_counts('channel','reason')
 project.groupby('channel')['reason'].describe()
 project['year_month'] = pd.to_datetime(project['date_time']).dt.to_period('M')
 grouped = project.groupby('year_month').size()
+over all the support calls are unique, meaning that one call can provide the support needed. 
+those that do call in, call in multiple times. 
+<img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/6843524e-c402-4fef-9558-4625d87a9aa7" />
