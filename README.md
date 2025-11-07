@@ -26,3 +26,4 @@ make-up histogram of ages
 is there a pattern for reasons
 see if there is a correlation between reason and gender and date
 
+I needed to change the read request to excel. I've gotten this far with the new data set in csv. I'll continue to use it <img width="685" height="473" alt="image" src="https://github.com/user-attachments/assets/1cbc3fe2-63b6-4af5-9ec9-1f51545c8d72" />
